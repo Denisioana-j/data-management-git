@@ -1,4 +1,4 @@
 import json
 import csv
 
-print(csv.__dict__)
+print(json.__doc__)
